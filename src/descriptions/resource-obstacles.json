@@ -1,0 +1,79 @@
+[
+  {
+    "obstacle": "Failed Settlement",
+    "description": "This place was home to a previous village or town, but something sent the locals in flight and this place has been abandoned. This place may still be a good location if supplies and investment is brought in to solve the root problem.",
+    "source": "Social",
+    "fix": "Culture change",
+    "locales": "Resource"
+  },
+  {
+    "obstacle": "Hazardous Resource",
+    "description": "This place is a locale of valuable resources, but they are very hard to get to and extract. It could be a physical or magical defense around the place. ",
+    "source": "Wealth",
+    "fix": "Investment",
+    "locales": "Resource"
+  },
+  {
+    "obstacle": "Infertile lands",
+    "description": "The land here is barren or just not good for growing crops. It could be physical or magical in nature.Turning the land here into arable formland is a formidable request and undertaking requiring irrigation or magical cleansing/terraforming.",
+    "source": "Military",
+    "fix": "Culture Change",
+    "locales": "Resource"
+  },
+  {
+    "obstacle": "Local Political Bullying",
+    "description": "Neighbors are feuding and the more powerful area is taking advantage of the less protected areas and projecting their interests and power. This is usually over a resource dispute but could be cultural in nature.",
+    "source": "Wealth",
+    "fix": "Investment",
+    "locales": "Resource"
+  },
+  {
+    "obstacle": "Natural Problems",
+    "description": "The land around the site is precarious. It could be poor traveling roads or conditions. It could be floods, landslides, bad water, storms, or blights. Civilization can be brought here but will require investment and innovation in order to secure trade.",
+    "source": "Wealth",
+    "fix": "Investment",
+    "locales": "Resource"
+  },
+  {
+    "obstacle": "Old Ways",
+    "description": "The populace here is very traditional and conservative in habits even when these habits are detrimental. An example of this could be xenophobia or some odd custom. Education and convincing is required in order for progress to flourish.",
+    "source": "Wealth",
+    "fix": "Investment",
+    "locales": "Resource"
+  },
+  {
+    "obstacle": "Poor Labor Pool",
+    "description": "This resource has insufficent laborers in order to be capitalized upon. It requires either training, technology, or more man power.",
+    "source": "Military",
+    "fix": "Investment",
+    "locales": "Resource"
+  },
+  {
+    "obstacle": "Raiders",
+    "description": "Monstrous beasts and brutes and/or Bandit Raiders run rampant over the lands. The current defenses of the area are inadequate to handle the threat and require investment and/or aid.",
+    "source": "Social",
+    "fix": "Investment",
+    "locales": "Resource"
+  },
+  {
+    "obstacle": "Seedy Reputation and/or Poverty",
+    "description": "This is a hive of scum and villany. Greedy merchants, thieves, and conmen. This imbalance of wealth has caused immense amounts of poverty. The golden rule is king: the one with gold makes the rules. Social upheaval and cultural change is required to fix this problem of corrupt, greedy leaders.",
+    "source": "Wealth",
+    "fix": "Knowledge",
+    "locales": "Resource"
+  },
+  {
+    "obstacle": "Toxic Resource Process",
+    "description": "This resource requires a lot of post-extraction effort in order for it to be useful. Unfortunately this process is often extremely dangerous. Only the desperate work at this toxic, poisonous, or inauspicious duty.",
+    "source": "Wealth",
+    "fix": "Knowledge",
+    "locales": "Resource"
+  },
+  {
+    "obstacle": "Unused Technology",
+    "description": "This place has access to either technology or magic that could be beneficial, if only they knew how to use it.",
+    "source": "Wealth",
+    "fix": "Knowledge",
+    "locales": "Resource"
+  }
+]

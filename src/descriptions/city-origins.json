@@ -1,0 +1,52 @@
+[
+  {
+    "origin": "Ancient Homeland",
+    "description": "The denizens have called this place home for a very long time. This place has levereged the investments of their ancestors and, in turn, have a strong unified culture and defined traditions.",
+    "benefit": "Social +2"
+  },
+  {
+    "origin": "Ancient Industry",
+    "description": "At one point, long ago, this was a site of economic investment. The current denizens leverage the previous setter's forward thinking providing the area with economic tools.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "origin": "Defensive Location",
+    "description": "This site was founded due to it's providential location as a place of military defense. Perhaps this site is surrounded on three sides by rivers or perched on a hill.",
+    "benefit": "Military +2"
+  },
+  {
+    "origin": "Ethnic Exceptionalism",
+    "description": "The original citizens have xenophobic tendencies and a very rigid cultural standard that provides sense of unifying identity.",
+    "benefit": "Social +2"
+  },
+  {
+    "origin": "Idealists/Innovators",
+    "description": "This city was originally founded on an idea. The original founders were looking to eschew the old ways and explore at applying a new social or technological concept or idea. This risk has paid off. At least in the short-term.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "origin": "Mercantile Hub",
+    "description": "This city is hub of trade in the region and flexible and pragmatic with their laws to eek more business. To the point of being greedy.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "origin": "Militant Rebels",
+    "description": "The losers of a civil war, the allies and accomplicaces of a failed coup, or an exiled army unit found this settlement. Regardless of the current state, this place never lost its martial heritage.",
+    "benefit": "Military +2"
+  },
+  {
+    "origin": "Outcasts",
+    "description": "The opposite of Ethnocentrist. This city was founded by the renegades and outcasts of other places. Possibly survivors or refugees. Whatever the cause, this diversity has become a source of strength.",
+    "benefit": "Social +2"
+  },
+  {
+    "origin": "Religious/Philosophicals",
+    "description": "The founders of this community were leaders of a religious or philosophical movement. Perhaps a major religious or education institution is still present here. Regardless, customs, laws, and traditions reflect this religious/spiritual/intellectual past providing a sense of unity.",
+    "benefit": "Social +2"
+  },
+  {
+    "origin": "Survivalists",
+    "description": "The original inhabitants of this place were survivors and hardy folks. Whether refugees of a disaster, traveling explorers looking to settle down, or likeminded former woodsmen and woodswomen. Survivalist instincts and skills for self-preservation have left its mark in this community granting a familiarity in the tools of survival and sometimes, the tools of war.",
+    "benefit": "Military +2"
+  }
+]

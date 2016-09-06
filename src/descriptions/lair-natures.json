@@ -1,0 +1,42 @@
+[
+  {
+    "nature": "Ethnic Outcasts",
+    "description": "This place is home to a sect of a splinter ethnic group or subrace of monster or man. Perhaps it's a faction of murderers and liars and brigands or perhaps a people or group of families who have turned from old ways to embrace wicked practices. These people or monsters often have no respect for life and relish in depravity."
+  },
+  {
+    "nature": "Evil Shrine",
+    "description": "This is either a home for a fanatical, obscure cult or the place of worship/convening for a sect of wicked monks."
+  },
+  {
+    "nature": "Fortified Position",
+    "description": "This lair's tennants have formed it into a base of operations. It could be a bandit fort, renegade force of rebels, splinter group, or an ambitious rablerouser with a popular following. It could also be a place of a monstrous tribe."
+  },
+  {
+    "nature": "Growing Conquerer",
+    "description": "A charismatic leader of a military force (barbarian tribe, mercenary company, orcish horde, etc) has taken this site as home to a plot of conquest."
+  },
+  {
+    "nature": "Magical Fallout",
+    "description": "The land in this place has been magically infused causing strange mutations and effects in the flora and fauna."
+  },
+  {
+    "nature": "Magical Place",
+    "description": "A powerful magic user or cabal of likeminded depraved arcanists inhabits this place. For what ends? who knows. Perhaps he or she is one who has turned from the order of light in order to research foul dark magics in isolation or the group has an established school of dark magic and sorcery. Regardless, there's magical power here that often requires unwilling sacrifices."
+  },
+  {
+    "nature": "Nesting Ground",
+    "description": "This place has ideal conditions for some strange and/or powerful creature to reproduce."
+  },
+  {
+    "nature": "Planar Incursion",
+    "description": "The lair is commanded by a devil, demon, or otherwise extraplanar entity. It certainly has a following."
+  },
+  {
+    "nature": "Portal",
+    "description": "The planar boundaries grows thin in this locale. Intentional or not, otherworldly things have begun bleeding through into the prime material and viceversa."
+  },
+  {
+    "nature": "Primordial wickedness.",
+    "description": "This lair permeates a sense of evil. A place of darkness since the beginning of the world. This is a very dangerous and rare site. Whatever evil calls this place home is unnaturally timeless evil and not to be trifiled with easily."
+  }
+]

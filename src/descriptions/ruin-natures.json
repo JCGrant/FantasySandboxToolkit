@@ -1,0 +1,27 @@
+[
+  {
+    "nature": "Abandoned Locale",
+    "description": "Something caused the residents of this place to have to abandon this place. It could have been a freshly failed settlement or a longstanding locale that took a turn for the worse. It could be from a conflict or disease. Who knows what treasures lie untouched from before the ruin?",
+    "benefit": "Wealth +2"
+  },
+  {
+    "nature": "Ancient Settlement",
+    "description": "These ruins date back long, long, ago from an ancient time. While time has been unflattering to this ancient place, there are still caches of wealth to be discovered here. But perhaps they were left undisturbed this long for good reason?",
+    "benefit": "Wealth +2"
+  },
+  {
+    "nature": "Lost Religion",
+    "description": "Whether it was a temple, religious school, or shrine, this place was once a powerful focus for a faith.ne, pilgrimage site, or seminary, this ruin was once the center of a powerful local faith. Places like this have lingering power. What lost knowledge remains here?",
+    "benefit": "Social +2"
+  },
+  {
+    "nature": "Crumbled Fortification.",
+    "description": "Once a powerful fortress, this place has fallen into disrepair and disuse. It is a powerful military site.",
+    "benefit": "Military +2"
+  },
+  {
+    "nature": "Dark Tower",
+    "description": "Once a watchhouse, lookout, or arcane tower, this place sits in an tactically advantageous place.",
+    "benefit": "Military +2"
+  }
+]

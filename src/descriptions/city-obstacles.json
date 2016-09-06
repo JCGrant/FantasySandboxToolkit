@@ -1,0 +1,79 @@
+[
+  {
+    "obstacle": "Seedy Reputation and/or Poverty",
+    "description": "This is a hive of scum and villany. Greedy merchants, thieves, and conmen. This imbalance of wealth has caused immense amounts of poverty. The golden rule is king: the one with gold makes the rules. Social upheaval and cultural change is required to fix this problem of corrupt, greedy leaders.",
+    "source": "Social",
+    "fix": "Culture change",
+    "locales": "Resource, City"
+  },
+  {
+    "obstacle": "Economic/Class Issues",
+    "description": "This location is full of spite between economic groups. Fixing this problem requires fixing the socio economic hierarchy",
+    "source": "Social",
+    "fix": "Culture Change",
+    "locales": "City"
+  },
+  {
+    "obstacle": "Infertile lands",
+    "description": "The land here is barren or just not good for growing crops. It could be physical or magical in nature.Turning the land here into arable formland is a formidable request and undertaking requiring irrigation or magical cleansing/terraforming.",
+    "source": "Wealth",
+    "fix": "Investment",
+    "locales": "Resource, Ruin, City"
+  },
+  {
+    "obstacle": "Cynicism",
+    "description": "The locals here have suffered for so much they have grown cynical or complacent. Alternatively it could be about societal disunity. Society will require a new beacon of hope in order to lead social change.",
+    "source": "Social",
+    "fix": "Culture Change",
+    "locales": "City"
+  },
+  {
+    "obstacle": "Sinister Silvertongues",
+    "description": "The populace is under the spell of a demogauge. Often religious in nature, the populace has been persuaded by a very charismatic leader who is usurping power and defying customs and traditions. It could also be a shadowy cult at work behind the scenes.",
+    "source": "Social",
+    "fix": "Force",
+    "locales": "Ruin, City"
+  },
+  {
+    "obstacle": "Old Ways",
+    "description": "The populace here is very traditional and conservative in habits even when these habits are detrimental. An example of this could be xenophobia or some odd custom. Education and convincing is required in order for progress to flourish.",
+    "source": "Wealth",
+    "fix": "Knowledge",
+    "locales": "Resource, Ruin"
+  },
+  {
+    "obstacle": "Riotous Protests",
+    "description": "The local population is in the middle of a turmoil or open revolt. The threat is internal in nature and the police and law enforcers are ill equipped to handle the uprising.",
+    "source": "Military",
+    "fix": "Investment",
+    "locales": "City"
+  },
+  {
+    "obstacle": "Secret Society",
+    "description": "There is a shadow organization with tendrils throughout the ruling government. They have the true power and rule by fear and force behind coopted or willing representatives.",
+    "source": "Social",
+    "fix": "Culture Change",
+    "locales": "City"
+  },
+  {
+    "obstacle": "Recovery",
+    "description": "Something in the past has destroyed a lot of the place's assets and industry. Many areas of this place will need to be rebuilt from a passing storm or natural disaster or war.",
+    "source": "Wealth",
+    "fix": "Investment",
+    "locales": "City"
+  },
+  {
+    "obstacle": "Raiders",
+    "description": "Monstrous beasts and brutes and/or Bandit Raiders run rampant over the lands. The current defenses of the area are inadequate to handle the threat and require investment and/or aid.",
+    "source": "Military",
+    "fix": "Investment",
+    "locales": "Resource, Ruin, City"
+  },
+  {
+    "obstacle": "Natural Problems",
+    "description": "The land around the site is precarious. It could be poor traveling roads or conditions. It could be floods, landslides, bad water, storms, or blights. Civilization can be brought here but will require investment and innovation in order to secure trade.",
+    "source": "Wealth",
+    "fix": "Investment",
+    "locales": "Resource, Ruin, City"
+  }
+]

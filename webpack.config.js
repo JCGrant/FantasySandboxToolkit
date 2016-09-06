@@ -14,6 +14,7 @@ var config = {
   },
   module: {
     loaders: [
+      { test: /\.json$/, loader: 'json' },
       {
         test: /.jsx?$/,
         include: PATHS.src,

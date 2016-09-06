@@ -1,0 +1,52 @@
+[
+  {
+    "activity": "Defensive Might",
+    "description": "This settlement is the opposite of Military Might. Instead of being expansionist in nature, this place has a strong defensive network community.",
+    "benefit": "Military +2"
+  },
+  {
+    "activity": "Exceptional Craftsman",
+    "description": "This place is home to very high quality crafts and goods. Perhaps this place is specialized for a particular thing and is well known for that good.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "activity": "Expanding Influence",
+    "description": "This city has very ambitious leaders and is spurned to believe it is the destined rulers of nearby lands. It has a strong martial bent.",
+    "benefit": "Military +2"
+  },
+  {
+    "activity": "Exploding Trade",
+    "description": "This locale is suffering a tremendous economic boom causing a surge in economic activity. This could be a new trade route, resource, or something else causing the trade explosion.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "activity": "Military Might",
+    "description": "This city has a very strong martial and military tendency. Perhaps it is a military or mercenary base. The city is very supportive of its military might.",
+    "benefit": "Military +2"
+  },
+  {
+    "activity": "Place of Learning/Contemplation",
+    "description": "The city has a very deep rooted tendency to learn and values knowledge be it spiritual or intellectual. This has made the settlement wealthy with the influx of pilgrims, students, and/or travelers.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "activity": "Political/Government",
+    "description": "This settlement is a hotbed of political activity. The locals are very in-tune with their community. Perhaps the local regional authorities have granted this location a council-like autonomy or has instated a governer with an ear to the ground.",
+    "benefit": "Social +2"
+  },
+  {
+    "activity": "Proselytizers",
+    "description": "This city is home to a very zealous group. Be it religious or philosophical, this place has a lot of spirit and cannot wait to spread it to the outlaying lands.",
+    "benefit": "Social +2"
+  },
+  {
+    "activity": "Resource provisioners",
+    "description": "This town is known for one particular resource. Grain, Timber, Fish etc and possesses a very strong industry around it.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "activity": "Socially Battlehardened",
+    "description": "This town has survived a longstanded feud or overcame a particularly dividing social, political, or economic situation and came out greater than before. The solution could have been one of compromise or defeat. Regardless, this place has a stronger sense of identity.",
+    "benefit": "Social +2"
+  }
+]

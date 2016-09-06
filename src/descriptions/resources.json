@@ -1,0 +1,42 @@
+[
+  {
+    "resource": "Abundant Agriculture",
+    "description": "This location is a prime place for growing food.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "resource": "Great Fishing",
+    "description": "Abundant fish populate the local waters here.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "resource": "Great Gathering",
+    "description": "Rare plants for gathering grow in abundance here. This place is teeming with food berries and plants. Alternatively this could be a place of rare herbs, spices, and alchemical ingredients.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "resource": "Hunting Grounds",
+    "description": "This location is teeming with available game. It could be a forrest full of deer, a plains of buffalo, etc.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "resource": "Lush Pasture",
+    "description": "These lands are great for grazing animals.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "resource": "Rich Veins",
+    "description": "This land has exceptionally good quality or abundance of minerals for mining.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "resource": "Sorcerous Materials",
+    "description": "This place is a fountain of magical energy. It is a focus of sorcery and whatever the resource is can easily be extracted here.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "resource": "Strong Timber",
+    "description": "This place has tons of ideal lumber for either boats, fortifications, or other industry. It could either be an abundance of a variety or a particuarly rich amount of a specific kind.",
+    "benefit": "Wealth +2"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "trait": "Eldritch Secrets",
+    "description": "These ruins once belonged to an estranged magic user or cabal of likeminded spellcasters. It's original purpose and what secrets have mostly been lost to the ages. However, not everything is lost or forgotten. Whoever controls this site, with enough research and dedication could extract marvelous arcane innovations out of this place.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "trait": "Forgotten Industrial Techniques",
+    "description": "This ruin houses clues and insights into techniques and technologies of a particular field. It could be mining, smithing, carpentry, jewelcraft, or other profession. Controlling this ruin could bestow the ruler with a significant economic advantage if these processes can be leveraged effectively.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "trait": "Great Works of Art",
+    "description": "This site is home to a cache of works of art and books that have withstood the test of time. Recovering these pieces could herald an era of cultural renaisance and/or esteem. It could also bestow pride or hope that connects the present days to a glorious past.",
+    "benefit": "Social +2"
+  },
+  {
+    "trait": "Lost Lineages",
+    "description": "This place was a seat of a powerful organization who has long past. Survivors or heirs have long since scattered amongs the region. Reclaiming this ancient territory could ignite a very fierce loyalty in those exilers. Alternatively this was once a seat of political power. Controlling this location bestows a sense of reclamation legitimacy in the ruler.",
+    "benefit": "Social +2"
+  },
+  {
+    "trait": "Military Cache",
+    "description": "These ruins are a military dream come true. This can be magical swords, armor, or even siege equipment. Alternatively this could be a site and home for a group of soldiers without a cause to fight for. Recruiting these men and women or monsters could be of strategic importance.",
+    "benefit": "Military +2"
+  },
+  {
+    "trait": "Resource Abundance",
+    "description": "Extracting and/or mining this locale could yeild to an abundance of a particularly scarce resource. It could be a rare plant, magical stream, or jewels/minerals. Certainly the dangers of this place exceed have kept this from being easily accessed in the past. Any ruler controlling this site could invest in logistics and be rewarded with great profits.",
+    "benefit": "Wealth +2"
+  },
+  {
+    "trait": "Restless Grave",
+    "description": "This ruin is the site of a great past conflict. The souls who perished in the conflict are restless and continue to prowl this place from darkness and shadow. Forces looking to control this ruin may have to bargain for passage or subdue these spirits.",
+    "benefit": "Military +2"
+  },
+  {
+    "trait": "Strategic Value",
+    "description": "This ruin has tremendous military value. This is a location that is prime for exerting influence and dominion. It is probably easily defensible and/or has a great view of it's surrounding lands.",
+    "benefit": "Military +2"
+  }
+]
